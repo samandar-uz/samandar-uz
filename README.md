@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Samandar</h1>
-<h3 align="center">Full Stack Developer | Java & Spring Boot | Flutter | PHP | MySQL</h3>
+<h3 align="center"> Java & Spring Boot | Flutter | PHP | MySQL</h3>
 
 ---
 
